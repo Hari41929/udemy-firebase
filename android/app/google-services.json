@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813582413062",
+    "project_id": "flash-chat-cfa15",
+    "storage_bucket": "flash-chat-cfa15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813582413062:android:af35cfdf1cea1b40c3c287",
+        "android_client_info": {
+          "package_name": "com.example.udemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDGOo3d57uc-bgpxb67WQ52TLTDdTLiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
